@@ -57,7 +57,7 @@ public class pertamina_junit extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 48)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("PERTAMINA");
+        jLabel1.setText("PERTA MINA");
 
         p2.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         p2.setText("Pertalite");
